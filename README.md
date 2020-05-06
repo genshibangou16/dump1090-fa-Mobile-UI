@@ -1,5 +1,5 @@
 # Mobile UI for dump1090-fa
-Add one file to make dump1090-fa web interface Mobile-Friendly!  
+Add one file to make dump1090-fa web interface Mobile Friendly!  
 Let's fit your PiAware SkyAware with mobile.  
 Installation is super easy, it may take only five minutes.
 
