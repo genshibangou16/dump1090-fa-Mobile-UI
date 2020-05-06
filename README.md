@@ -27,7 +27,7 @@ Ex. with nano.
 sudo nano /usr/share/dump1090-fa/html/index.html
 ```
 
-#### Add the following at the __end__ of `<header>`.
+#### Add the following at the _END_ of `<header>`.
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script>
