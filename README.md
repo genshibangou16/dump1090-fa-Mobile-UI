@@ -9,6 +9,7 @@ dump1090-fa 3.8.1
 I'm using Raspberry Pi (the first), so probably this works on all of your Pi.
 
 # Installation
+Just two steps!
 ## 1 Enter your pi with SSH and run wget as the following.
 ```bash
 sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1090-fa-Mobile-UI/raw/master/style_mobile.css
@@ -18,7 +19,7 @@ sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1
 ```bash
 sudo nano /usr/share/dump1090-fa/html/index.html
 ```
-Add ↓ at the end of `<header`.
+Add ↓ at the end of `<header>`.
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script>
