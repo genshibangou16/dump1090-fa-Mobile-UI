@@ -5,7 +5,7 @@ Let's fit your PiAware SkyAware with mobile.
 # Require
 dump1090-fa 3.8.1  
 I'm using Raspberry Pi (the first), so probably this works on all of your Pi.  
-And it may works with both iPhone and Android.
+And it can works with both iPhone and Android.
 
 # Installation
 Just two steps!
