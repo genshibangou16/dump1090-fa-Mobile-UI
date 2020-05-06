@@ -1,13 +1,11 @@
 # Mobile UI for dump1090-fa
-Add one file to make dump1090-fa web interface Mobile-Friendly!
-<br>
+Add one file to make dump1090-fa web interface Mobile-Friendly!  
 Let's fit your PiAware SkyAware with mobile.
 
 # Require
-dump1090-fa 3.8.1
-<br>
-I'm using Raspberry Pi (the first), so probably this works on all of your Pi.
-
+dump1090-fa 3.8.1  
+I'm using Raspberry Pi (the first), so probably this works on all of your Pi.  
+And it may works with both iPhone and Android.
 # Installation
 Just two steps!
 ## 1 Enter your pi with SSH and run wget as the following.
@@ -19,7 +17,7 @@ Ex. with nano.
 ```bash
 sudo nano /usr/share/dump1090-fa/html/index.html
 ```
-Add ↓ at the __end__ of `<header>`.
+Add the following at the __end__ of `<header>`.
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script>
@@ -31,3 +29,9 @@ Add ↓ at the __end__ of `<header>`.
 <link rel="stylesheet" type="text/css" href="style_mobile.css" media="screen and (max-width: 600px)" />
 ```
 Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.css?v=3.8.1" />`, or you can't use PC layout.
+
+# Note
+I tried to pack all of features into one CSS file, so there might be some strange point.  
+  
+And... what's IE?
+I don't know about it.
