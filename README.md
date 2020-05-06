@@ -40,6 +40,12 @@ sudo nano /usr/share/dump1090-fa/html/index.html
 ```
 Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.css?v=3.8.1" />`, or you can't use PC layout.
 
+#### For html beginner
+index.html is composed of many tag like `<name> content </name>` as generally.html files.  
+So please put the code between`<header>`and`</header>`, and as I mentioned, the code should be at the end of `<header>`, therefore put the code just before `</header>`.  
+You may find like `<link>``<script>``<title>` in `<header>`.  
+Please do not bleak other tags.
+
 # Note
 I tried to pack all of features into one CSS file, so there might be some strange point.  
 And... what's IE?  
