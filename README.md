@@ -2,6 +2,9 @@
 Add one file to make dump1090-fa web interface Mobile-Friendly!  
 Let's fit your PiAware SkyAware with mobile.
 
+# Sample
+![Screenshot1](https://user-images.githubusercontent.com/64895726/81192960-cd290b00-8ff5-11ea-982f-cfa108585303.jpg)
+
 # Require
 dump1090-fa 3.8.1  
 I'm using Raspberry Pi (the first), so probably this works on all of your Pi.  
