@@ -14,7 +14,8 @@ Just two steps!
 ```bash
 sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1090-fa-Mobile-UI/raw/master/style_mobile.css
 ```
-
+Of course you can also put it manualy.
+Don't put it wrong place.
 ## 2 Edit `index.html` at `/usr/share/dump1090-fa/html`.
 Ex. with nano.
 ```bash
@@ -36,6 +37,6 @@ Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.cs
 
 # Note
 I tried to pack all of features into one CSS file, so there might be some strange point.  
-  
 And... what's IE?  
-I don't know about it.
+I don't know about it.  
+Please don't blame for immaturity, but I welcome point out my misstake and reform measures.  
