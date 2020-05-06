@@ -15,10 +15,11 @@ Just two steps!
 sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1090-fa-Mobile-UI/raw/master/style_mobile.css
 ```
 ## 2 Edit `index.html` at `/usr/share/dump1090-fa/html`.
+Ex. with nano.
 ```bash
 sudo nano /usr/share/dump1090-fa/html/index.html
 ```
-Add ↓ at the end of `<header>`.
+Add ↓ at the _end_ of `<header>`.
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script>
