@@ -19,7 +19,7 @@ Ex. with nano.
 ```bash
 sudo nano /usr/share/dump1090-fa/html/index.html
 ```
-Add ↓ at the _end_ of `<header>`.
+Add ↓ at the __end__ of `<header>`.
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script>
@@ -30,3 +30,4 @@ Add ↓ at the _end_ of `<header>`.
 </script>
 <link rel="stylesheet" type="text/css" href="style_mobile.css" media="screen and (max-width: 600px)" />
 ```
+Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.css?v=3.8.1" />`, or you can't use PC layout.
