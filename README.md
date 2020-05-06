@@ -38,5 +38,5 @@ Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.cs
 # Note
 I tried to pack all of features into one CSS file, so there might be some strange point.  
 And... what's IE?  
-I don't know about it.  
+I don't know about it. lol  
 Please don't blame for immaturity, but I welcome point out my misstake and reform measures.  
