@@ -3,8 +3,13 @@ Add one file to make dump1090-fa web interface Mobile-Friendly!
 <br>
 Let's fit your PiAware SkyAware with mobile.
 
+# Require
+dump1090-fa 3.8.1
+
 # Installation
+```bash
 sudo wget -P /usr/share/dump1090-fa/html
+```
 
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <script>
