@@ -14,7 +14,6 @@ Just two steps!
 ```bash
 sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1090-fa-Mobile-UI/raw/master/style_mobile.css
 ```
-<br>
 ## 2 Edit index.html at /usr/share/dump1090-fa/html.
 ```bash
 sudo nano /usr/share/dump1090-fa/html/index.html
