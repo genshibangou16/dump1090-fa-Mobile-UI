@@ -45,4 +45,4 @@ I tried to pack all of features into one CSS file, so there might be some strang
 And... what's IE?  
 I don't know about it. lol  
 Please don't blame for my immaturity, but I welcome your pointing out my misstake and suggesting reform measures.  
-Enjoy dumping!
+Have a nice watching!
