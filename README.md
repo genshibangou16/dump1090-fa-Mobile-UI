@@ -15,7 +15,7 @@ And it can works with both iPhone and Android.
 # Installation
 It's just two steps!
 
-## 1 Entry your pi with SSH and run wget as the following.
+## 1 Enter your pi with SSH and run wget as the following.
 ```bash
 sudo wget -P /usr/share/dump1090-fa/html https://github.com/genshibangou16/dump1090-fa-Mobile-UI/raw/master/style_mobile.css
 ```
@@ -44,4 +44,5 @@ Do __NOT__ put ↑ before `<link rel="stylesheet" type="text/css" href="style.cs
 I tried to pack all of features into one CSS file, so there might be some strange point.  
 And... what's IE?  
 I don't know about it. lol  
-Please don't blame for immaturity, but I welcome pointing out my misstake and suggesting reform measures.  
+Please don't blame for my immaturity, but I welcome your pointing out my misstake and suggesting reform measures.  
+Enjoy dumping!
